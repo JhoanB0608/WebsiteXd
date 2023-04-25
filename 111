@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tienda en línea de dropshipping</title>
+    <!-- Agrega aquí tus enlaces a archivos CSS, JavaScript y otras bibliotecas externas -->
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <h1>¡Compra productos de calidad en línea!</h1>
+        <nav>
+            <!-- Agrega aquí tu navegación del sitio, como enlaces a las diferentes categorías, carrito de compra, mi cuenta, etc. -->
+        </nav>
+    </header>
+
+    <!-- Contenido principal -->
+    <main>
+        <!-- Agrega aquí los productos destacados o populares -->
+        <section>
+            <h2>Productos destacados</h2>
+            <!-- Agrega aquí la lista de productos destacados con sus imágenes, descripciones y precios -->
+        </section>
+
+        <!-- Agrega aquí las categorías de productos con sus respectivas imágenes y enlaces -->
+        <section>
+            <h2>Categorías de productos</h2>
+            <!-- Agrega aquí la lista de categorías de productos con sus imágenes y enlaces -->
+        </section>
+    </main>
+
+    <!-- Pie de página -->
+    <footer>
+        <!-- Agrega aquí la información de contacto, enlaces a redes sociales, políticas de envío y devoluciones, etc. -->
+    </footer>
+
+    <!-- Agrega aquí tus scripts personalizados, si es necesario -->
+
+</body>
+</html>
